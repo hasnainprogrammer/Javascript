@@ -1,0 +1,5 @@
+- querySelectorAll('elements') --> select multiple elements with the same property such as class and return a NodeList which is an array.
+- classList.add('class name') --> add a class to an element.
+- classList.remove('class name') --> remove a class from an element.
+- classList.contains('class name') --> check wheather an element contains the specified class.
+- e --> a javascript event object which contain info about the event.

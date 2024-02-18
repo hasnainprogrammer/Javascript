@@ -1,0 +1,10 @@
+*** A high level overview of JavaScript ***
+1."High Level" --> JS is a high level language.
+2."Garbage Collected" --> JS engine automatically clean up the memory from unnecessary objects.
+3. "Interpreted" --> JS is an interpreted language.
+4."Multi Paradigm" --> JS is multi paradigm language means you can write code either in procedural, functional or OOP way.
+5."Prototype Based Object Oriented" --> everythin in JS is an objects anf we inherit from these objects.
+6."First Class Functions" --> functions can be used as a variables.
+7."Dynamic" --> JS is dynamically typed language.
+8."Single Threaded" --> JS can only do one thing at a time.
+9."Non Blocking Event Loop" --> using event loop JS takes long running tasks, execute them in the background and puts them back in the main thread once they are finished.

@@ -1,0 +1,28 @@
+(I):-
+----
+1) INSTALLING PRETTIER:- it will automatically formate our code.
+2) USER SNIPPETS:- create a shortcut cl for console.log().
+3) INSTALLING LIVE SERVER:- you can install live server extension for live reload of the web browser.
+            OR
+you can use the node.js live server.
+!--> to use node.js live server first install node.js from node.js website and then type the following command on the vs code terminal:
+    COMMAND => npm install live-server -g // g means global.
+
+
+(II):-
+----
+
+--- PROBLEM SOLVING AND DEBUGGING ---
+
+1) PROBLEM SOLVING:-
+four steps to solve a problem:
+1. understand the problem well and ask questions about the problem and solution.
+2. use divide and conquer rule to solve problems it means that divide the large problem into smaller sub problem and then tackle each sub problem individually.
+3. research means find the solution from google, stackoverflow or mdn etc.
+4. write pseudu code before implementing the problem.
+
+2) DEBUGGING:-
+1. identify the bugs.
+2. find the bugs.
+3. fix the bugs.
+4. prevent the bugs.

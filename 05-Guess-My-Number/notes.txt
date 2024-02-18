@@ -1,0 +1,8 @@
+DOM MANIPULATION AND EVENTS 
+===========================
+
+- querySelector('selector') --> selecting element from the DOM.
+- textContent --> get or set the value of a property.
+- value --> get or set the value of an input field.
+- addEvenetListener --> listen for an event and execute the code inside the             addEvenetListener block.
+- style.css_property --> manipulating css property E.G:body.style.backgroundColor='red'. 
